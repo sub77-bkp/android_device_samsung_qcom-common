@@ -1,0 +1,2 @@
+# Assign external kernel modules to the DLKM class
+LOCAL_MODULE_CLASS := DLKM
